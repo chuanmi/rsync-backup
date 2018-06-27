@@ -1,3 +1,4 @@
+#!/bin/bash
 SET HOME=C:\cwRsync\
 cd C:\cwRsync\
 
